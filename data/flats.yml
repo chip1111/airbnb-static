@@ -1,0 +1,30 @@
+donald:
+  owner_name: Donald Trump
+  picture: "whitehouse.jpg"
+  owner_picture: "donald.jpg"
+  name: Donald's home
+  summary: Charming white house in Washington D.C.
+  city: Washington D.C.
+  wifi: true
+  security: high
+  rooms: 145
+theresa:
+  owner_name: Theresa May
+  picture: "downing.jpg"
+  owner_picture: "theresa.jpg"
+  name: Theresa's home
+  summary: Quaint terraced property on private road
+  city: London
+  wifi: true
+  security: medium
+  rooms: 40
+vladimir:
+  owner_name: Vladimir Putin
+  picture: "kremlin.jpg"
+  owner_picture: "vladimir.jpg"
+  name: Vlad's home
+  summary: Imposing Russian palace
+  city: Moscow
+  wifi: true
+  security: medium
+  rooms: 340
